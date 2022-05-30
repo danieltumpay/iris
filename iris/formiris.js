@@ -1,7 +1,8 @@
 //VARIABLES CONSTANTES LOS OBJETOS HTML CON EL ID
-const formulario = document.querySelector('.formulario')
+const formulario = document.querySelector('.formulario');
 const resultado = document.getElementById("resultado");
 const spinner = document.querySelector('.spinner');
+const imagen = document.getElementById("imgf");
 
 eventListeners();
 
